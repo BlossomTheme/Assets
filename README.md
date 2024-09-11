@@ -1,7 +1,7 @@
 # Assets
 Assets of Blossom organization
 
-<details>
+<!-- <details>
 <summary>Flower Logo</summary>
 <br>
   
@@ -39,4 +39,4 @@ Assets of Blossom organization
   
 <img src ='./banner.png' width='50%'><br>
 
-</details>
+</details> -->
